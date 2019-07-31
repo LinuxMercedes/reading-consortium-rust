@@ -1,0 +1,11 @@
+[package]
+name = "wk2-insertion-sort"
+version = "0.1.0"
+authors = ["linuxmercedes <linuxmercedes@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[dev-dependencies]
+quickcheck = "0.8"
+quickcheck_macros = "0.8"

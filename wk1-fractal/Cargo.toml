@@ -1,0 +1,10 @@
+[package]
+name = "wk1-fractal"
+version = "0.1.0"
+authors = ["linuxmercedes <linuxmercedes@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+num = "0.1.27"
+image = "0.13.0"
+crossbeam = "0.2.0"
